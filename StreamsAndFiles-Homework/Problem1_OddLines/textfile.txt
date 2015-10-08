@@ -1,0 +1,6 @@
+﻿A file is a collection of data stored in a disk with a specific name and a directory path. 
+When a file is opened for reading or writing, it becomes a stream.
+The stream is basically the sequence of bytes passing through the communication path.
+There are two main streams: the input stream and the output stream. 
+The input stream is used for reading data from file (read operation)
+and the output stream is used for writing into the file (write operation).

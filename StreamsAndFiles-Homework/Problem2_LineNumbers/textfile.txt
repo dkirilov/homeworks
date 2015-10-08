@@ -1,0 +1,5 @@
+﻿Most modern text editors have at least basic support for regular expressions. In the
+search or search-and-replace panel, you’ll typically find a checkbox to turn on regular
+expression mode. Some editors, such as EditPad Pro, also use regular expressions for
+various features that process text, such as syntax highlighting or class and function lists.
+The documentation with each editor explains all these features.
